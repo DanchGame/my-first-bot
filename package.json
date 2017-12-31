@@ -1,7 +1,7 @@
 {
-  "name": "starter-slapp-app",
-  "version": "1.0.0",
-  "description": "Basic Slack app using the Slapp library and Slack Events API",
+  "name": "My first bot Andrey",
+  "version": "0.1",
+  "description": "бездейственный робот",
   "scripts": {
     "watch": "nodemon server.js",
     "test": "standard"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/BeepBoopHQ/starter-slapp-app.git"
   },
-  "author": "Brad Harris",
+  "author": "DanchGame",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/BeepBoopHQ/starter-slapp-app/issues"
