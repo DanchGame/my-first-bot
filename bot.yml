@@ -1,4 +1,4 @@
-name: slappbot
-description: ☝️☝️ Check out the README ☝️☝️ in the repo for setup instructions. By the way, this is just the description in the bot.yml file - feel free to change it 😉
-avatar: .beepboop/avatar.png
+name: My First Bot Andrey
+description:Этот робот пока бездейственный.
+commands:learn,informing
 # To learn everything supported in the bot.yml file, visit https://beepboophq.com/docs/article/bot-yml
